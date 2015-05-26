@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8"><title>Quiz</title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+<br></br>
+<br></br>
+<br></br>
+  <h2> Autores del Quiz</h2>
+   
+  <form method="get" action="/author">
+      Alumnos: <%= alumnos %> <p>
+      
+
+
+ 
+<img src="Captura.PNG" >
+<br>
+
+<br><br>
+
+
+</form>
+
+</body>
+</html>
